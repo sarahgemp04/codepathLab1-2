@@ -65,12 +65,14 @@ functionality! (+1-3pts)
 
 ## Video Walkthrough
 
-    Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:
 
-    <img src='https://i.imgur.com/Pe2k9ef.gif' title='Video
+
+<img src='https://i.imgur.com/Pe2k9ef.gif' title='Video
     Walkthrough' width='' alt='Video Walkthrough' />
 
-    GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 ## Notes
